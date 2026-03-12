@@ -1,5 +1,4 @@
-# Retail-Sales-Data-Analysis
-Retail sales data analysis using Python, NumPy, Pandas and Matplotlib
+
 # Retail Sales Data Analysis using Python
 
 ## Project Overview
